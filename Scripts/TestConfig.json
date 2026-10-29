@@ -1,0 +1,1 @@
+{ "Commands": [], "Cvars": ["t.MaxFPS"], "Expect": ["TEST t.MaxFPS = 30"], "Ini": { "FpsLock": { "Mode": "0" } } }

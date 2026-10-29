@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "FPS Lock",
+  "Description": "Level Editor toolbar button that caps the editor frame rate at 30, 60 or no limit (t.MaxFPS).",
+  "Category": "Editor",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "Modules": [
+    { "Name": "FpsLock", "Type": "Editor", "LoadingPhase": "PostEngineInit" }
+  ]
+}
